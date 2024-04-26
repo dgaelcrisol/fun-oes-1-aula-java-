@@ -77,5 +77,13 @@ function calculadoraIMC (peso , altura) {
         return " voce está nop shape!";
     } else { 
         return "faça dieta e academia!";
+    }
+}
+
+        
+undefined
+calculadoraIMC(prompt("digite seu peso: "), prompt("digite sua altura: "))
+
+'faça dieta e academia!'
 
         
